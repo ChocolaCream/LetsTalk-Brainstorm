@@ -3,4 +3,5 @@ Talk Brainstorm allows for an audio interface with general language AI models. T
 
 # Requirements:
 * pip install pyaudio
+* pip install gTTS
 * pip install google-cloud-speech
